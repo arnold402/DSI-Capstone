@@ -1,6 +1,6 @@
 # DSI-Capstone
 
-CUSTOMER SEGMENTATION/TARGETING & Sales
+## Retail data Analysis & Customer Segmentation
 
 ## Introduction
 Business Intelligence is one  of the key drivers of morden Business Strategy. Big corporations have invested a lot to take advantage of this; Clear access to 'what happened, how, why and what might happen', which have come to be known as Exploratory, Predictive and diagnostic/prescriptive data analytics. 
